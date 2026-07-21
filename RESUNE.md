@@ -52,9 +52,6 @@ Fiscal Officer with 10 years of financial management experience in data manageme
 - Advised Principal Investigators and program managers on fiscal strategy and long-range budget planning
 - Balanced full-time fiscal leadership with part-time college coursework while maintaining a 3.97 GPA
 
-> [!NOTE]
-> Your resume didn't list a formal leadership title, so this section was built from leadership-adjacent duties in your work history (training staff, advising PIs, team award). Swap in something more specific if you have it — e.g., a club, committee, or volunteer role.
-
 ---
 
 ## Honors & Awards
