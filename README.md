@@ -4,7 +4,8 @@ Yumi Nagayoshi is a Fiscal Officer at Maunakea Shared Services in Hilo, Hawaiʻi
 
 She is currently completing a Bachelor of Business Administration in Finance with a Business Analytics Certificate at the University of Hawaiʻi at Hilo, maintaining a 3.97 GPA while working full-time.
 
-Bilingual in Japanese and English, Yumi combines hands-on fiscal expertise with strong Excel and Python skills, and is seeking to bring her financial analysis and budgeting experience to a Financial Manager role.
+Bilingual in Japanese and English, Yumi combines hands-on fiscal expertise with strong Excel and Python skills, and is seeking to grow into a Financial Manager role where she can apply her analytical and budgeting experience at a strategic level.
 
 ---
+
 **Contact**: yuminaga@hawaii.edu
