@@ -1,6 +1,6 @@
 # Yumi Nagayoshi
 
-Hilo, HI 96720 · (808) xxx-xxxx · [yuminaga@hawaii.edu](mailto:yuminaga@hawaii.edu)
+Hilo, HI 96720 · (808) 990-6517 · [yuminaga@hawaii.edu](mailto:yuminaga@hawaii.edu)
 
 Fiscal Officer with 10 years of financial management experience in data management, accounts payable/receivable, budgeting, and financial analysis. Seeking a Financial Manager role to bring this expertise to Big Island Candies.
 
@@ -9,7 +9,7 @@ Fiscal Officer with 10 years of financial management experience in data manageme
 ## Education
 
 **University of Hawaii at Hilo** — Hilo, HI
-*Bachelor of Business Administration in Finance* | Expected Dec 2026
+*Bachelor of Business Administration in Finance* | Expected Aug 2026
 - Maintaining a 3.97 GPA while working full-time
 - Completing a Business Analytics Certificate, to be awarded with the BBA (2026)
 
