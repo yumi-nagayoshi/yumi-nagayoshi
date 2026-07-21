@@ -2,8 +2,7 @@
 
 Hilo, HI 96720 · (808) 990-6517 · [yuminaga@hawaii.edu](mailto:yuminaga@hawaii.edu)
 
-Fiscal Officer with 10 years of financial management experience in data management, accounts payable/receivable, budgeting, and financial analysis. Seeking a Financial Manager role to bring this expertise to Big Island Candies.
-
+Fiscal Officer with 10 years of financial management experience in data management, accounts payable/receivable, budgeting, and financial analysis. 
 ---
 
 ## Education
