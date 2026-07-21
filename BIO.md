@@ -7,3 +7,7 @@ Academically, Yumi is pursuing a Bachelor of Business Administration in Finance 
 Yumi's skill set spans Microsoft Office (advanced Excel, Word, PowerPoint), Python, accounting, and investment analysis informed by her own personal investing experience. She is bilingual in Japanese and English and has developed strong time-management skills from balancing full-time employment with part-time coursework over many years. Her professional contributions have been recognized with two RCUH Employee of the Year Honorable Mentions — a Team Award in 2025 and an Individual Award in 2021 — and she is a member of Phi Theta Kappa, The National Society of Leadership and Success, and Beta Gamma Sigma honor societies.
 
 Beyond her fiscal career, Yumi has diverse experience that reflects her range of interests: she worked as a Yoga Instructor at Balancing Monkey Yoga Studio in Hilo from 2015 to 2020, and began her professional journey as a Student Assistant with Maunakea Observatories Support Services in 2013. Looking ahead, Yumi is seeking to leverage her decade of fiscal expertise and soon-to-be-completed finance degree to step into a Financial Manager role, such as at Big Island Candies, where she can apply her budgeting, data management, and financial analysis skills at a strategic level.
+
+---
+
+**Contact**: yuminaga@hawaii.edu 
