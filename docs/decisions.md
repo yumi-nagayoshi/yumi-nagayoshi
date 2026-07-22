@@ -1,5 +1,5 @@
 [2026-07-21-nagayoshi-scenario-1-hedge-framing.md](https://github.com/user-attachments/files/30253365/2026-07-21-nagayoshi-scenario-1-hedge-framing.md)
-memos + decision documents (Stage 1, 5)
+
 # EUR Receivable Hedge Framing — Scenario 1 (Solar Equipment Importer)
 
 **Created by:** Nagayoshi
