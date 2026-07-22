@@ -1,11 +1,16 @@
 [2026-07-21-nagayoshi-eur-receivable-solar-importer-hedge-framing.md](https://github.com/user-attachments/files/30253503/2026-07-21-nagayoshi-eur-receivable-solar-importer-hedge-framing.md)
 # EUR Receivable Hedge Framing — U.S. Solar Equipment Importer
 
-**Created by:** Nagayoshi
-**Updated by:** Nagayoshi
+**Created by:** Yumi Nagayoshi  
+
+**Updated by:** Yumi Nagayoshi 
+
 **Date Created:** 2026-07-21
+
 **Date Updated:** 2026-07-21
+
 **Version:** 1.0
+
 **LLM Used:** Claude (Anthropic)
 
 ---
