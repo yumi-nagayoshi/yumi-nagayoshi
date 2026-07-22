@@ -1,6 +1,5 @@
-[2026-07-21-nagayoshi-scenario-1-hedge-framing.md](https://github.com/user-attachments/files/30253365/2026-07-21-nagayoshi-scenario-1-hedge-framing.md)
-
-# EUR Receivable Hedge Framing — Scenario 1 (Solar Equipment Importer)
+[2026-07-21-nagayoshi-eur-receivable-solar-importer-hedge-framing.md](https://github.com/user-attachments/files/30253503/2026-07-21-nagayoshi-eur-receivable-solar-importer-hedge-framing.md)
+# EUR Receivable Hedge Framing — U.S. Solar Equipment Importer
 
 **Created by:** Nagayoshi
 **Updated by:** Nagayoshi
@@ -12,7 +11,7 @@
 ---
 
 ## Executive Summary
-Scenario 1's importer holds a $4.5M USD-equivalent EUR receivable due in one year, exposed to EUR depreciation. We compared unhedged, outright forward, protective put, and collar strategies using July 21, 2026 market data (spot EURUSD 1.14; USD 1Y rate 4.03%; EUR 1Y rate 2.88%) against the scenario's stated forward (1.0875) and option premiums (put $0.015, call $0.018). The put and collar both beat the outright forward on a floor/locked basis, because the scenario's forward sits well below what today's rate differential implies. Recommend the put or collar over the forward, and verify the forward quote before execution.
+The importer holds a $4.5M USD-equivalent EUR receivable due in one year, exposed to EUR depreciation. We compared unhedged, outright forward, protective put, and collar strategies using July 21, 2026 market data (spot EURUSD 1.14; USD 1Y rate 4.03%; EUR 1Y rate 2.88%) against the deal's stated forward (1.0875) and option premiums (put $0.015, call $0.018). The put and collar both beat the outright forward on a floor/locked basis, because the deal's quoted forward sits well below what today's rate differential implies. Recommend the put or collar over the forward, and verify the forward quote before execution.
 
 ## Background & Objectives
 The company will collect a EUR-denominated receivable worth $4.5M today, in one year. Objective: protect USD proceeds from EUR depreciation while retaining reasonable upside, at acceptable cost.
@@ -27,10 +26,10 @@ EUR notional = $4.5M ÷ 1.14 = €3.95M. Modeled USD proceeds if year-end spot i
 | Put (K=1.14) | $4.44M | $4.44M | $4.88M |
 | Collar (K=1.14) | $4.51M | $4.51M | $4.51M |
 
-The put/collar's implied synthetic forward (~1.143) tracks the covered-interest-parity forward (~1.153) far more closely than the scenario's stated 1.0875 — worth flagging.
+The put/collar's implied synthetic forward (~1.143) tracks the covered-interest-parity forward (~1.153) far more closely than the deal's stated 1.0875 — worth flagging.
 
 ## Limitations & Next Steps
-Assumes the receivable is spot-translated USD-equivalent (confirm actual EUR notional). Ignores time value of premiums, transaction costs, and credit risk. The scenario's forward rate appears stale relative to current rates. Next steps: pull live forward and option quotes, confirm the EUR notional, choose between the put ($59K premium, uncapped upside) and the collar (net $12K credit, capped at $4.51M), and route the selection through Treasury for hedge-accounting sign-off.
+Assumes the receivable is spot-translated USD-equivalent (confirm actual EUR notional). Ignores time value of premiums, transaction costs, and credit risk. The quoted forward rate appears stale relative to current rates. Next steps: pull live forward and option quotes, confirm the EUR notional, choose between the put ($59K premium, uncapped upside) and the collar (net $12K credit, capped at $4.51M), and route the selection through Treasury for hedge-accounting sign-off.
 
 ## References
-Spot/rates as of July 20–21, 2026: Yahoo Finance, Investing.com, TradingView (spot); U.S. Treasury 1Y CMT via ycharts (USD rate); Euribor-rates.info 12-month Euribor (EUR rate). Scenario terms: `scenarios.md`, Scenario 1.
+Spot/rates as of July 20–21, 2026: Yahoo Finance, Investing.com, TradingView (spot); U.S. Treasury 1Y CMT via ycharts (USD rate); Euribor-rates.info 12-month Euribor (EUR rate). Deal terms: `scenarios.md`, Scenario 1 — U.S. Solar Equipment Importer.
