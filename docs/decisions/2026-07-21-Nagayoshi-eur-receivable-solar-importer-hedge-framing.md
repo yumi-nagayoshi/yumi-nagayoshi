@@ -11,7 +11,7 @@
 
 ---
 
-## Executive Summary (≤150 words)
+## Executive Summary 
 The importer holds a $4.5M USD-equivalent EUR receivable due in one year, exposed to EUR depreciation. We compared unhedged, outright forward, protective put, and collar strategies using July 21, 2026 market data (spot EURUSD 1.14; USD 1Y rate 4.03%; EUR 1Y rate 2.88%) against the deal's stated forward (1.0875) and option premiums (put $0.015, call $0.018). The put and collar both beat the outright forward on a floor/locked basis, because the deal's quoted forward sits well below what today's rate differential implies. Recommend the put or collar over the forward, and verify the forward quote before execution.
 
 ---
