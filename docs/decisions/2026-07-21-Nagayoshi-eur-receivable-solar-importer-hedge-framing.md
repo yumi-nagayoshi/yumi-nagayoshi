@@ -1,5 +1,5 @@
 ---
-title: FX Receivable Exposure - Hedge Framing
+title: EUR Receivable Hedge Framing — U.S. Solar Equipment Importer
 author: Yumi Nagayoshi
 date: 2026-07-28
 version: 1.1
