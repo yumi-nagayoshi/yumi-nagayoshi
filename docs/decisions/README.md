@@ -1,4 +1,6 @@
+
 For FIN 321 (Summer 2026) — FX Hedging Project
+-
 Assigned Scenario: #1
 
 Firm: U.S. Solar Equipment Importer
