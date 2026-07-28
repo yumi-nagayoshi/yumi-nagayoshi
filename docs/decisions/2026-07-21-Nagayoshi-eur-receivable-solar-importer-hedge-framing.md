@@ -34,8 +34,12 @@ EUR notional = $4.5M ÷ 1.14 = €3.95M. Modeled USD proceeds if year-end spot i
 
 The put/collar's implied synthetic forward (~1.143) tracks the covered-interest-parity forward (~1.153) far more closely than the deal's stated 1.0875 — worth flagging.
 
+---
+
 ## Limitations & Next Steps
 Assumes the receivable is spot-translated USD-equivalent (confirm actual EUR notional). Ignores time value of premiums, transaction costs, and credit risk. The quoted forward rate appears stale relative to current rates. Next steps: pull live forward and option quotes, confirm the EUR notional, choose between the put ($59K premium, uncapped upside) and the collar (net $12K credit, capped at $4.51M), and route the selection through Treasury for hedge-accounting sign-off.
+
+---
 
 ## References
 Spot/rates as of July 20–21, 2026: Yahoo Finance, Investing.com, TradingView (spot); U.S. Treasury 1Y CMT via ycharts (USD rate); Euribor-rates.info 12-month Euribor (EUR rate). Deal terms: `scenarios.md`, Scenario 1 — U.S. Solar Equipment Importer.
