@@ -27,8 +27,6 @@ The company will collect a EUR-denominated receivable worth $4.5M today, in one 
 ---
 
 ## Methods
-EUR notional = $4.5M ÷ 1.14 = €3.95M. Modeled USD proceeds if year-end spot is 1.05 / 1.14 / 1.25:
-
 Forward contract: Locks a fixed EURUSD rate today for delivery in one year. Pro: no upfront cost, proceeds fully known. Con: forfeits all upside if EUR strengthens.
 
 Money market hedge: Borrow EUR against the receivable, convert to USD now, invest until maturity. Pro: priced off our own funding/investment rates, independent of dealer forward pricing. Con: draws on balance-sheet/credit capacity and adds three transactions instead of one.
