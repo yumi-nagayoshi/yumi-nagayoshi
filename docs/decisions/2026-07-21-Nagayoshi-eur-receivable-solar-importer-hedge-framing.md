@@ -21,18 +21,14 @@ The company will collect a EUR-denominated receivable worth $4.5M today, in one 
 
 ---
 
-
 ## Methods
 EUR notional = $4.5M ÷ 1.14 = €3.95M. Modeled USD proceeds if year-end spot is 1.05 / 1.14 / 1.25:
 
-| Strategy | 1.05 | 1.14 | 1.25 |
-|---|---|---|---|
-| Unhedged | $4.14M | $4.50M | $4.93M |
-| Forward (1.0875) | $4.29M | $4.29M | $4.29M |
-| Put (K=1.14) | $4.44M | $4.44M | $4.88M |
-| Collar (K=1.14) | $4.51M | $4.51M | $4.51M |
+Forward contract: Locks a fixed EURUSD rate today for delivery in one year. Pro: no upfront cost, proceeds fully known. Con: forfeits all upside if EUR strengthens.
 
-The put/collar's implied synthetic forward (~1.143) tracks the covered-interest-parity forward (~1.153) far more closely than the deal's stated 1.0875 — worth flagging.
+Money market hedge: Borrow EUR against the receivable, convert to USD now, invest until maturity. Pro: priced off our own funding/investment rates, independent of dealer forward pricing. Con: draws on balance-sheet/credit capacity and adds three transactions instead of one.
+
+Options (EUR put or collar): A put sets a floor while keeping upside; a collar (put plus a sold call) narrows the range at little or no net cost. Pro: keeps upside participation, unlike a forward. Con: a standalone put costs a real premium; a collar caps the upside it's protecting.
 
 ---
 
