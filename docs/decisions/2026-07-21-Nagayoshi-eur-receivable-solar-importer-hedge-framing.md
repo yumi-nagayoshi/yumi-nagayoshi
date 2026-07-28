@@ -2,25 +2,25 @@
 
 # EUR Receivable Hedge Framing — U.S. Solar Equipment Importer
 
-**Created by:** Yumi Nagayoshi
-
-**Updated by:** Yumi Nagayoshi
-
-**Date Created:** 2026-07-21
-
-**Date Updated:** 2026-07-21
-
-**Version:** 1.0
-
+**Created by:** Yumi Nagayoshi  
+**Updated by:** Yumi Nagayoshi  
+**Date Created:** 2026-07-21 
+**Date Updated:** 2026-07-28 
+**Version:** 1.1
 **LLM Used:** Claude (Anthropic)
 
 ---
 
-## Executive Summary
+## Executive Summary (≤150 words)
 The importer holds a $4.5M USD-equivalent EUR receivable due in one year, exposed to EUR depreciation. We compared unhedged, outright forward, protective put, and collar strategies using July 21, 2026 market data (spot EURUSD 1.14; USD 1Y rate 4.03%; EUR 1Y rate 2.88%) against the deal's stated forward (1.0875) and option premiums (put $0.015, call $0.018). The put and collar both beat the outright forward on a floor/locked basis, because the deal's quoted forward sits well below what today's rate differential implies. Recommend the put or collar over the forward, and verify the forward quote before execution.
+
+---
 
 ## Background & Objectives
 The company will collect a EUR-denominated receivable worth $4.5M today, in one year. Objective: protect USD proceeds from EUR depreciation while retaining reasonable upside, at acceptable cost.
+
+---
+
 
 ## Methods
 EUR notional = $4.5M ÷ 1.14 = €3.95M. Modeled USD proceeds if year-end spot is 1.05 / 1.14 / 1.25:
