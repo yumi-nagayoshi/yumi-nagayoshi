@@ -1,6 +1,6 @@
 ---
-
 # EUR Receivable Hedge Framing — U.S. Solar Equipment Importer  
+
 **Created by:** Yumi Nagayoshi  
 **Updated by:** Yumi Nagayoshi  
 **Date Created:** 2026-07-21  
