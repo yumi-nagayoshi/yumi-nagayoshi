@@ -39,6 +39,8 @@ The put/collar's implied synthetic forward (~1.143) tracks the covered-interest-
 ## Limitations & Next Steps
 Assumes the receivable is spot-translated USD-equivalent (confirm actual EUR notional). Ignores time value of premiums, transaction costs, and credit risk. The quoted forward rate appears stale relative to current rates. Next steps: pull live forward and option quotes, confirm the EUR notional, choose between the put ($59K premium, uncapped upside) and the collar (net $12K credit, capped at $4.51M), and route the selection through Treasury for hedge-accounting sign-off.
 
+Beyond that, the build proceeds in stages for CFO approval: Stage 2 — write a full model specification for each hedge, with formulas and required inputs. Stage 3 — build the model with AI assistance and audit every output by hand. Stage 4 — replace placeholder rates with live market data at execution. Stage 5 — validate results and deliver a single recommended hedge with sizing.
+
 ---
 
 ## References
