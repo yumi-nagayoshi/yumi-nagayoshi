@@ -21,3 +21,7 @@ This is how it should be. Deliverable: 300–400 word memo → docs/decisions/YY
 Maybe using word "scenario 1" in document and title is not good idea.
 
 ---
+
+I need to work on my assignment with  you. this is the assignment instruction, https://adamwstauffer.github.io/ai-lms/fx-hedging-stage2.html  This is template, https://github.com/adamwstauffer/shidler/blob/main/courses/International-Finance-And-Securities/projects/fx-hedging/stage2-model-spec.md This is my scenario. This is my executive memo, https://github.com/yumi-nagayoshi/yumi-nagayoshi/blob/main/docs/decisions/2026-07-21-Nagayoshi-eur-receivable-solar-importer-hedge-framing.md Create a draft.
+
+---
