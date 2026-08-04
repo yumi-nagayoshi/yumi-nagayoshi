@@ -29,4 +29,6 @@ I need to work on my assignment with  you. this is the assignment instruction, h
 https://github.com/yumi-nagayoshi/yumi-nagayoshi/blob/main/docs/specs/2026-07-28-nagayoshi-eur-receivable-solar-importer-spec.md
 can you create a excel spreadsheet from this?
 
+can you update my  spreadsheet by correcting dollar sign to euro for FC_AMT in inputs tab and remove day adjustment?
+
 ---
