@@ -4,7 +4,7 @@
 |---|---|
 | **Created by** | Yumi Nagayoshi |
 | **Date Created** | 2026-07-28 |
-| **Version** | 0.1 (draft) |
+| **Version** | 1.0 |
 | **LLM Used** | Claude (Anthropic) — drafted from Stage 1 memo + `scenarios.md`, Scenario 1 |
 | **Role** | Treasury Analyst |
 | **Audience** | CFO / Director of Treasury |
