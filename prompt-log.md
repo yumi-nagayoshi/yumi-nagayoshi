@@ -56,5 +56,7 @@ Scenario 1 – U.S. Solar Equipment Exporter
         Put on EUR with (k =) [EURUSD], premium = $0.015 per contract (no multiplier)
         Call on EUR with (k =) [EURUSD], premium = $0.018 per contract (no multiplier)
 
+this is the workbook that should reflect this market data.
+
 ---
 
