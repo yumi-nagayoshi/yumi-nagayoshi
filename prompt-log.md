@@ -56,7 +56,8 @@ Scenario 1 – U.S. Solar Equipment Exporter
         Put on EUR with (k =) [EURUSD], premium = $0.015 per contract (no multiplier)
         Call on EUR with (k =) [EURUSD], premium = $0.018 per contract (no multiplier)
 
-this is the workbook that should reflect this market data.
+Then I uploaded the Stage 3 workbook and asked Claude to populate it with the live data, verify it recalculated cleanly, and confirm the kink/collar checks. 
+I ran the FX Hedging Lab myself with the live inputs and pasted the lab's output back in, asking Claude to reconcile it against the workbook and explain any discrepancy.
 
 ---
 
