@@ -45,8 +45,8 @@ Look up today's live market data for: S0_in (EURUSD spot), R_USD and R_FC (1-yea
     Tell me exactly which named-range cells to update in the workbook — don't touch anything else.
     Flag anything that will break (e.g. if the new gap is small enough that the money-market vs. forward comparison stops being interesting, say so). 
     
-I do not have sales agreement, so I follow this senario given. Scenario 1 – U.S. Solar Equipment Exporter
-
+I do not have sales agreement, so I follow this senario given. 
+Scenario 1 – U.S. Solar Equipment Exporter
     Receivable: $4,500,000 receivable in 1 year
     Spot: EURUSD quote
     Forward: 1.0875 (maturity: 1 year from today)
