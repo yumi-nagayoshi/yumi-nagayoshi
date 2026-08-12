@@ -1,13 +1,5 @@
+FIN 321 (Summer 2026) — FX Hedging Project
 
-For FIN 321 (Summer 2026) — FX Hedging Project
--
-Assigned Scenario: #1
+Assigned Scenario: #1 — U.S. Solar Equipment Exporter, EUR receivable
 
-Firm: U.S. Solar Equipment Importer
-
-Scenario slug: solar-importer
-
-Receivable: $4,500,000
-
-Indicative fwd (EURUSD): 1.0875
-
+This folder holds the Excel model (`builds/`) built from the Stage 2 specification and populated with live market data at Stage 4. See `builds/README.md` for the specific file.
