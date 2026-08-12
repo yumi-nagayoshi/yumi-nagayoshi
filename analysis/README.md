@@ -1,16 +1,7 @@
+FIN 321 (Summer 2026) — FX Hedging Project
 
+Assigned Scenario: #1 — U.S. Solar Equipment Exporter, EUR receivable
 
-For FIN 321 (Summer 2026) — FX Hedging Project
--
-Assigned Scenario: #1
-
-Firm: U.S. Solar Equipment Importer
-
-* **Receivable:** $4,500,000 receivable in 1 year
-* **Spot:** EURUSD quote
-* **Forward:** 1.0875 (maturity: 1 year from today)
-* **USD Interest Rate:** [n.nn%]
-* **EUR Interest Rate:** [n.nn%]
-* **Option:**
-  * Put on EUR with (k =) [EURUSD], premium = $0.015 per contract (no multiplier)
-  * Call on EUR with (k =) [EURUSD], premium = $0.018 per contract (no multiplier)
+- `2026-08-03-Nagayoshi-build-audit.md` — Stage 3 audit note: workbook build reconciled against an independent reference implementation.
+- `2026-08-11-nagayoshi-eur-receivable-solar-importer-validation.md` — Stage 5 validation doc: independent LLM run, comparison table, hand-verified arithmetic, and spec retrospective.
+- `2026-08-11-nagayoshi-eur-receivable-solar-importer-llm-raw-output.md` — Full raw output from the Stage 5 independent LLM run (appendix to the validation doc).
