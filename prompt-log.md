@@ -61,3 +61,8 @@ I ran the FX Hedging Lab myself with the live inputs and pasted the lab's output
 
 ---
 
+https://github.com/yumi-nagayoshi/yumi-nagayoshi/blob/main/docs/specs/2026-07-28-nagayoshi-eur-receivable-solar-importer-spec.md
+https://github.com/yumi-nagayoshi/yumi-nagayoshi/blob/main/data/2026-08-07-nagayoshi-market-data.md
+These are for hedge model specification and marketdata memo for EUR receivable hedging analysis. Using only these information, compute all hedge outcomes. then tell me which hedging strategy you recommend among forward, money-market, put option, call option, and unhedged.  
+
+---
